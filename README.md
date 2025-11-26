@@ -1,6 +1,11 @@
+# ARCHIVED ON NOVEMBER 26, 2025 
+
+This is project has been merged into [**BIM Open Schema**](https://github.com/ara3d/bim-open-schema). 
+
+---
+
 # BIM Open Geometry
 
-This is a companion project to [BIM Open Schema](https://github.com/ara3d/bim-open-schema). 
 
 ## About BIM Open Geometry
 
